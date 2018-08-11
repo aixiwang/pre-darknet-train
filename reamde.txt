@@ -1,0 +1,13 @@
+Thanks to open source projects:
+https://github.com/puzzledqs/BBox-Label-Tool
+https://github.com/Guanghan/darknet
+
+
+Note: only support .jpg file
+
+steps:
+
+(1) use sort_name.py to format image file name and resize orgignal jpg to (448,448) (pre.bat)
+(2) use main.py to lable images (t.bat)
+(3) convert label format to darknet format (convert.bat)
+
